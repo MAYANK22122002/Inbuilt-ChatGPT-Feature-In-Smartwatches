@@ -1,0 +1,12 @@
+Put api key in "open.api_key" section in the code:
+
+Api key 1:Generate it from the open ai site and paste it inside the openai.api_key=" "
+
+Internet connection is a must.
+This project work in latest python version so download it and install it from the official site of python.
+
+Install all important modules to run this code:
+1. pip install openai
+2. pip install tkinter
+3. pip install Speech_recognition
+4. pip install pyttsx3
